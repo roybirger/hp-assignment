@@ -1,7 +1,8 @@
 # hp-assignment
 
 
-npm install
-npm start
+#npm install
 
-browse to localhost:8090
+#npm start
+
+#browse to localhost:8090
